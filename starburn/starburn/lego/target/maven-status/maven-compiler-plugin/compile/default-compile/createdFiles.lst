@@ -1,0 +1,4 @@
+com\gabriel\gui\model\Block.class
+com\gabriel\gui\model\LegoAppState.class
+com\gabriel\gui\service\LegoAppCommandService.class
+com\gabriel\gui\service\LegoAppService.class
